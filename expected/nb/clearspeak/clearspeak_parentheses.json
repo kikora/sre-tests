@@ -43,7 +43,7 @@
       "expected": "minus, venstre parentes, 2 x, høyre parentes, kvadrat"
     },
     "Paren011": {
-      "expected": "en andre"
+      "expected": "en halv"
     },
     "Paren012": {
       "expected": "tre fjerdedeler x"
@@ -52,7 +52,7 @@
       "expected": "venstre parentes, 11 delt på 22, høyre parentes"
     },
     "Paren014": {
-      "expected": "en andre i fjerde potens"
+      "expected": "en halv i fjerde potens"
     },
     "Paren015": {
       "expected": "venstre parentes, 11 delt på 15, høyre parentes, kvadrat"
@@ -88,7 +88,7 @@
       "expected": "minus, venstre parentes, 2 x, høyre parentes, kvadrat"
     },
     "Paren026": {
-      "expected": "venstre parentes, en andre, høyre parentes"
+      "expected": "venstre parentes, en halv, høyre parentes"
     },
     "Paren027": {
       "expected": "venstre parentes, tre fjerdedeler x, høyre parentes"
@@ -97,7 +97,7 @@
       "expected": "venstre parentes, 11 delt på 22, høyre parentes"
     },
     "Paren029": {
-      "expected": "venstre parentes, en andre, høyre parentes, i fjerde potens"
+      "expected": "venstre parentes, en halv, høyre parentes, i fjerde potens"
     },
     "Paren030": {
       "expected": "venstre parentes, 11 delt på 15, høyre parentes, kvadrat"
@@ -229,7 +229,7 @@
       "expected": "minus, 2 x, kvadrat"
     },
     "SilParen011": {
-      "expected": "en andre"
+      "expected": "en halv"
     },
     "SilParen012": {
       "expected": "tre fjerdedeler x"
@@ -238,7 +238,7 @@
       "expected": "11 delt på 22"
     },
     "SilParen014": {
-      "expected": "en andre, i fjerde potens"
+      "expected": "en halv, i fjerde potens"
     },
     "SilParen015": {
       "expected": "11 delt på 15, kvadrat"

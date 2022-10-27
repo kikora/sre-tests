@@ -70,7 +70,7 @@
       "expected": "kvadratroten av, venstre parentes, x indeks 2, minus, x indeks 1, høyre parentes, kvadrat pluss, venstre parentes, y indeks 2, minus, y indeks 1, høyre parentes, kvadrat"
     },
     "Root020": {
-      "expected": "kvadratroten av en andre"
+      "expected": "kvadratroten av en halv"
     },
     "Root021": {
       "expected": "kvadratroten av, 23 delt på 66"
@@ -145,7 +145,7 @@
       "expected": "den positive kvadratroten av, venstre parentes, x indeks 2, minus, x indeks 1, høyre parentes, kvadrat pluss, venstre parentes, y indeks 2, minus, y indeks 1, høyre parentes, kvadrat"
     },
     "Root044": {
-      "expected": "den positive kvadratroten av en andre"
+      "expected": "den positive kvadratroten av en halv"
     },
     "Root045": {
       "expected": "den positive kvadratroten av, 23 delt på 66"
@@ -217,7 +217,7 @@
       "expected": "kvadratroten av, venstre parentes, x indeks 2, minus, x indeks 1, høyre parentes, kvadrat pluss, venstre parentes, y indeks 2, minus, y indeks 1, høyre parentes, kvadrat, slutt rot"
     },
     "Root067": {
-      "expected": "kvadratroten av en andre, slutt rot"
+      "expected": "kvadratroten av en halv, slutt rot"
     },
     "Root068": {
       "expected": "kvadratroten av, 23 delt på 66, slutt rot"
@@ -289,7 +289,7 @@
       "expected": "den positive kvadratroten av, venstre parentes, x indeks 2, minus, x indeks 1, høyre parentes, kvadrat pluss, venstre parentes, y indeks 2, minus, y indeks 1, høyre parentes, kvadrat, slutt rot"
     },
     "Root090": {
-      "expected": "den positive kvadratroten av en andre, slutt rot"
+      "expected": "den positive kvadratroten av en halv, slutt rot"
     },
     "Root091": {
       "expected": "den positive kvadratroten av, 23 delt på 66, slutt rot"

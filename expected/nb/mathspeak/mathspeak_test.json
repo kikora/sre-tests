@@ -142,7 +142,7 @@
       "expected": "minus Start Brøk a Over b Slutt Brøk"
     },
     "NegativeVsMinus_2": {
-      "expected": "negativ 3 og en andre"
+      "expected": "negativ 3 og en halv"
     },
     "Sample_4_2_1_default": {
       "expected": "Uppercase venstre parentes StartSett alfa komma beta komma gamma komma delta komma epsilon komma pi StoppSett høyre parentes er lik StartSett stor bokstav Alfa komma stor bokstav Beta komma stor bokstav Gamma komma triangel komma stor bokstav Epsilon komma stor bokstav Pi StoppSett"
@@ -253,13 +253,13 @@
       "expected": "a 0 pluss Nøst3Brøk 1 Nøst3Over a 1 pluss NøstTo gangerBrøk 1 NøstTo gangerOver a 2 pluss NøstBrøk 1 NøstOver prikk prikk prikk pluss Brøk 1 Over a Sub n Basis SluttBrøk NøstSluttBrøk NøstTo gangerSluttBrøk Nøst3SluttBrøk"
     },
     "Sample_7_4_1_default": {
-      "expected": "en andre pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendelig Sluttskript Start Brøk n Over 2 Slutt Brøk"
+      "expected": "en halv pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendelig Sluttskript Start Brøk n Over 2 Slutt Brøk"
     },
     "Sample_7_4_1_brief": {
-      "expected": "en andre pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendelig Sluttskript Start Brøk n Over 2 Slutt Brøk"
+      "expected": "en halv pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendelig Sluttskript Start Brøk n Over 2 Slutt Brøk"
     },
     "Sample_7_4_1_sbrief": {
-      "expected": "en andre pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendelig Sluttskript Brøk n Over 2 SluttBrøk"
+      "expected": "en halv pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendelig Sluttskript Brøk n Over 2 SluttBrøk"
     },
     "Sample_7_4_2_default": {
       "expected": "Start Brøk 20 Over 5 Slutt Brøk gangetegn Start Brøk 1 Over 100 Slutt Brøk er lik en tjuefemte"
@@ -316,13 +316,13 @@
       "expected": "Brøk d i andre potens y Over d x i andre potens SluttBrøk pluss venstre parentes a x i andre potens pluss b x pluss c høyre parentes y er lik 0"
     },
     "Sample_8_2_1_default": {
-      "expected": "x Superskript en andre"
+      "expected": "x Superskript en halv"
     },
     "Sample_8_2_1_brief": {
-      "expected": "x Sub en andre"
+      "expected": "x Sub en halv"
     },
     "Sample_8_2_1_sbrief": {
-      "expected": "x Sub en andre"
+      "expected": "x Sub en halv"
     },
     "Sample_8_2_2_default": {
       "expected": "x Subskript n"

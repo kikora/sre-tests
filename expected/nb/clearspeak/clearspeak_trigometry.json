@@ -177,13 +177,13 @@
       "expected": "cosinus x cosinus y, er lik 2, cosinus av, brøk med teller x pluss y, og nevner 2, cosinus av, brøk med teller x minus y, og nevner 2"
     },
     "Trig043": {
-      "expected": "sinus av, venstre parentes, minus, pi delt på 8, høyre parentes, er lik minus en andre kvadratroten av 2 minus kvadratroten av 2, slutt rot, slutt rot"
+      "expected": "sinus av, venstre parentes, minus, pi delt på 8, høyre parentes, er lik minus en halv kvadratroten av 2 minus kvadratroten av 2, slutt rot, slutt rot"
     },
     "Trig044": {
       "expected": "tangens av, 3 pi delt på 8, er lik, brøk med teller kvadratroten av, kvadratroten av 2, slutt rot, pluss 1, slutt rot, og nevner kvadratroten av, kvadratroten av 2, slutt rot, minus 1, slutt rot"
     },
     "Trig045": {
-      "expected": "tangens av, pi delt på 12, er lik en andre kvadratroten av 2 minus kvadratroten av 3, slutt rot, slutt rot"
+      "expected": "tangens av, pi delt på 12, er lik en halv kvadratroten av 2 minus kvadratroten av 3, slutt rot, slutt rot"
     },
     "TrigInvAuto001": {
       "expected": "invers sinus av x"
@@ -207,7 +207,7 @@
       "expected": "invers sinus av, brøk med teller kvadratroten av 2, og nevner 2"
     },
     "TrigInvAuto008": {
-      "expected": "invers cosinus av en andre"
+      "expected": "invers cosinus av en halv"
     },
     "TrigInvAuto009": {
       "expected": "invers tangens av 17"
@@ -249,7 +249,7 @@
       "expected": "invers sinus av, venstre parentes, cosinus av, pi delt på 4, høyre parentes"
     },
     "TrigInvAuto022": {
-      "expected": "sinus, invers cosinus av en andre"
+      "expected": "sinus, invers cosinus av en halv"
     },
     "TrigInvAuto023": {
       "expected": "sinus, invers tangens av 1"
@@ -285,7 +285,7 @@
       "expected": "sinus invers av, brøk med teller kvadratroten av 2, og nevner 2"
     },
     "TrigInverse008": {
-      "expected": "cosinus invers av en andre"
+      "expected": "cosinus invers av en halv"
     },
     "TrigInverse009": {
       "expected": "tangens invers av 17"
@@ -327,7 +327,7 @@
       "expected": "sinus invers av, venstre parentes, cosinus av, pi delt på 4, høyre parentes"
     },
     "TrigInverse022": {
-      "expected": "sinus, cosinus invers av en andre"
+      "expected": "sinus, cosinus invers av en halv"
     },
     "TrigInverse023": {
       "expected": "sinus, tangens invers av 1"
@@ -363,7 +363,7 @@
       "expected": "bue sinus av, brøk med teller kvadratroten av 2, og nevner 2"
     },
     "ArcTrig008": {
-      "expected": "bue cosinus en andre"
+      "expected": "bue cosinus en halv"
     },
     "ArcTrig009": {
       "expected": "bue tangens 17"
@@ -405,7 +405,7 @@
       "expected": "bue sinus av, venstre parentes, cosinus av, pi delt på 4, høyre parentes"
     },
     "ArcTrig022": {
-      "expected": "sinus, bue cosinus en andre"
+      "expected": "sinus, bue cosinus en halv"
     },
     "ArcTrig023": {
       "expected": "sinus, bue tangens 1"

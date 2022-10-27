@@ -172,13 +172,13 @@
       "expected": "m vinkel stor bokstav M pluss m vinkel stor bokstav N er lik 180 grader"
     },
     "Sample_19_default": {
-      "expected": "stor bokstav A er lik en andre b h"
+      "expected": "stor bokstav A er lik en halv b h"
     },
     "Sample_19_brief": {
-      "expected": "stor bokstav A er lik en andre b h"
+      "expected": "stor bokstav A er lik en halv b h"
     },
     "Sample_19_sbrief": {
-      "expected": "stor bokstav A er lik en andre b h"
+      "expected": "stor bokstav A er lik en halv b h"
     },
     "Sample_20_default": {
       "expected": "Start Brøk area of triangle Over area of square Slutt Brøk er lik Start Brøk 1 unit i andre potens Over 16 units i andre potens Slutt Brøk"
@@ -487,13 +487,13 @@
       "expected": "32 ganger venstre parentes 5 ganger 7 høyre parentes"
     },
     "Sample_54_default": {
-      "expected": "venstre parentes en andre gangetegn en andre gangetegn pi gangetegn 2 høyre parentes pluss venstre parentes 2 gangetegn en andre gangetegn pi gangetegn 5 høyre parentes"
+      "expected": "venstre parentes en halv gangetegn en halv gangetegn pi gangetegn 2 høyre parentes pluss venstre parentes 2 gangetegn en halv gangetegn pi gangetegn 5 høyre parentes"
     },
     "Sample_54_brief": {
-      "expected": "venstre parentes en andre gangetegn en andre gangetegn pi gangetegn 2 høyre parentes pluss venstre parentes 2 gangetegn en andre gangetegn pi gangetegn 5 høyre parentes"
+      "expected": "venstre parentes en halv gangetegn en halv gangetegn pi gangetegn 2 høyre parentes pluss venstre parentes 2 gangetegn en halv gangetegn pi gangetegn 5 høyre parentes"
     },
     "Sample_54_sbrief": {
-      "expected": "venstre parentes en andre gangetegn en andre gangetegn pi gangetegn 2 høyre parentes pluss venstre parentes 2 gangetegn en andre gangetegn pi gangetegn 5 høyre parentes"
+      "expected": "venstre parentes en halv gangetegn en halv gangetegn pi gangetegn 2 høyre parentes pluss venstre parentes 2 gangetegn en halv gangetegn pi gangetegn 5 høyre parentes"
     },
     "Sample_55_default": {
       "expected": "nedre grense Underskript n høyrepil uendelig Sluttskript stor bokstav E Subskript n Grunnlinje er lik forening Underskript n er større enn eller er lik 1 Sluttskript interseksjon Underskript k er større enn eller er lik n Sluttskript stor bokstav E Subskript k Grunnlinje komma øvre grense Underskript n høyrepil uendelig Sluttskript stor bokstav E Subskript n Grunnlinje er lik interseksjon Underskript n er større enn eller er lik 1 Sluttskript forening Underskript k er større enn eller er lik n Sluttskript stor bokstav E Subskript k Grunnlinje punktum"
@@ -784,13 +784,13 @@
       "expected": "x er lik a pluss b i andre potens"
     },
     "Sample_87_default": {
-      "expected": "Start Brøk en andre Over tre fjerdedeler Slutt Brøk er lik to tredjedeler"
+      "expected": "Start Brøk en halv Over tre fjerdedeler Slutt Brøk er lik to tredjedeler"
     },
     "Sample_87_brief": {
-      "expected": "Start Brøk en andre Over tre fjerdedeler Slutt Brøk er lik to tredjedeler"
+      "expected": "Start Brøk en halv Over tre fjerdedeler Slutt Brøk er lik to tredjedeler"
     },
     "Sample_87_sbrief": {
-      "expected": "Brøk en andre Over tre fjerdedeler SluttBrøk er lik to tredjedeler"
+      "expected": "Brøk en halv Over tre fjerdedeler SluttBrøk er lik to tredjedeler"
     },
     "Sample_88_default": {
       "expected": "2 venstre parentes venstre parentes x pluss 1 høyre parentes venstre parentes x pluss 3 høyre parentes minus 4 venstre parentes venstre parentes x minus 1 høyre parentes venstre parentes x pluss 2 høyre parentes minus 3 høyre parentes høyre parentes er lik y"
@@ -892,13 +892,13 @@
       "expected": "Brøk d Over d x SluttBrøk venstre parentes stor bokstav E venstre parentes x høyre parentes stor bokstav A venstre parentes x høyre parentes Brøk d w venstre parentes x høyre parentes Over d x SluttBrøk høyre parentes pluss p venstre parentes x høyre parentes er lik 0"
     },
     "Sample_99_default": {
-      "expected": "TCS Subskript gas Grunnlinje er lik minus en andre venstre parentes Start Brøk stor bokstav P Subskript seal Grunnlinje Over stor bokstav P Subskript maks Grunnlinje Slutt Brøk høyre parentes venstre parentes Start Brøk 1 Over stor bokstav T Subskript seal Grunnlinje Slutt Brøk høyre parentes"
+      "expected": "TCS Subskript gas Grunnlinje er lik minus en halv venstre parentes Start Brøk stor bokstav P Subskript seal Grunnlinje Over stor bokstav P Subskript maks Grunnlinje Slutt Brøk høyre parentes venstre parentes Start Brøk 1 Over stor bokstav T Subskript seal Grunnlinje Slutt Brøk høyre parentes"
     },
     "Sample_99_brief": {
-      "expected": "TCS Sub gas Basis er lik minus en andre venstre parentes Start Brøk stor bokstav P Sub seal Basis Over stor bokstav P Sub maks Basis Slutt Brøk høyre parentes venstre parentes Start Brøk 1 Over stor bokstav T Sub seal Basis Slutt Brøk høyre parentes"
+      "expected": "TCS Sub gas Basis er lik minus en halv venstre parentes Start Brøk stor bokstav P Sub seal Basis Over stor bokstav P Sub maks Basis Slutt Brøk høyre parentes venstre parentes Start Brøk 1 Over stor bokstav T Sub seal Basis Slutt Brøk høyre parentes"
     },
     "Sample_99_sbrief": {
-      "expected": "TCS Sub gas Basis er lik minus en andre venstre parentes Brøk stor bokstav P Sub seal Basis Over stor bokstav P Sub maks Basis SluttBrøk høyre parentes venstre parentes Brøk 1 Over stor bokstav T Sub seal Basis SluttBrøk høyre parentes"
+      "expected": "TCS Sub gas Basis er lik minus en halv venstre parentes Brøk stor bokstav P Sub seal Basis Over stor bokstav P Sub maks Basis SluttBrøk høyre parentes venstre parentes Brøk 1 Over stor bokstav T Sub seal Basis SluttBrøk høyre parentes"
     },
     "Sample_100_default": {
       "expected": "stor bokstav B Subskript p Grunnlinje er lik Start Start Brøk Start Brøk 7 minus v i andre potens Over 3 Slutt Brøk venstre parentes 1 pluss Start Brøk c i andre potens Over a i andre potens Slutt Brøk pluss Start Brøk c Superskript 4 Grunnlinje Over a Superskript 4 Grunnlinje Slutt Brøk høyre parentes pluss Start Brøk venstre parentes 3 minus v høyre parentes i andre potens c i andre potens Over venstre parentes 1 pluss v høyre parentes a i andre potens Slutt Brøk Over Over venstre parentes 1 minus v høyre parentes venstre parentes 1 minus Start Brøk c Superskript 4 Grunnlinje Over a Superskript 4 Grunnlinje Slutt Brøk høyre parentes venstre parentes 1 minus Start Brøk c i andre potens Over a i andre potens Slutt Brøk høyre parentes Slutt Slutt Brøk"

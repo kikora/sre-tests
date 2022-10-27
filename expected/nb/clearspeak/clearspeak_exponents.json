@@ -139,7 +139,7 @@
       "expected": "3 hevet til eksponenten, venstre parentes, x pluss 1, høyre parentes, i y-te potens, end exponent, pluss 2"
     },
     "Exp035": {
-      "expected": "e hevet til eksponenten, minus en andre ganger, venstre parentes, brøk med teller x minus my, og nevner sigma, høyre parentes, kvadrat, end exponent"
+      "expected": "e hevet til eksponenten, minus en halv ganger, venstre parentes, brøk med teller x minus my, og nevner sigma, høyre parentes, kvadrat, end exponent"
     },
     "Exp036": {
       "expected": "2 i n-te potens"
@@ -283,10 +283,10 @@
       "expected": "3 med eksponent, venstre parentes, x pluss 1, høyre parentes, opphøyd i y-te, slutt eksponent, pluss 2"
     },
     "Exp083": {
-      "expected": "e med eksponent, minus en andre x opphøyd i andre, slutt eksponent"
+      "expected": "e med eksponent, minus en halv x opphøyd i andre, slutt eksponent"
     },
     "Exp084": {
-      "expected": "e med eksponent, minus en andre ganger, venstre parentes, brøk med teller x minus my, og nevner sigma, høyre parentes, opphøyd i andre, slutt eksponent"
+      "expected": "e med eksponent, minus en halv ganger, venstre parentes, brøk med teller x minus my, og nevner sigma, høyre parentes, opphøyd i andre, slutt eksponent"
     },
     "Exp085": {
       "expected": "3 opphøyd i andre"
@@ -415,10 +415,10 @@
       "expected": "3 opphøyd til eksponenten, venstre parentes, x pluss 1, høyre parentes, opphøyd i y-te, slutt eksponent, pluss 2"
     },
     "Exp127": {
-      "expected": "e opphøyd til eksponenten, minus en andre x opphøyd i andre, slutt eksponent"
+      "expected": "e opphøyd til eksponenten, minus en halv x opphøyd i andre, slutt eksponent"
     },
     "Exp128": {
-      "expected": "e opphøyd til eksponenten, minus en andre ganger, venstre parentes, brøk med teller x minus my, og nevner sigma, høyre parentes, opphøyd i andre, slutt eksponent"
+      "expected": "e opphøyd til eksponenten, minus en halv ganger, venstre parentes, brøk med teller x minus my, og nevner sigma, høyre parentes, opphøyd i andre, slutt eksponent"
     },
     "Exp129": {
       "expected": "3 opphøyd i 2"
@@ -553,10 +553,10 @@
       "expected": "3 opphøyd til eksponenten, venstre parentes, x pluss 1, høyre parentes, opphøyd i y, slutt eksponent, pluss 2"
     },
     "Exp173": {
-      "expected": "e opphøyd til eksponenten, minus en andre x opphøyd i 2, slutt eksponent"
+      "expected": "e opphøyd til eksponenten, minus en halv x opphøyd i 2, slutt eksponent"
     },
     "Exp174": {
-      "expected": "e opphøyd til eksponenten, minus en andre ganger, venstre parentes, brøk med teller x minus my, og nevner sigma, høyre parentes, opphøyd i 2, slutt eksponent"
+      "expected": "e opphøyd til eksponenten, minus en halv ganger, venstre parentes, brøk med teller x minus my, og nevner sigma, høyre parentes, opphøyd i 2, slutt eksponent"
     }
   }
 }

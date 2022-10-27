@@ -95,7 +95,7 @@
       "expected": "g av minus 2 x"
     },
     "Function006": {
-      "expected": "h av en andre"
+      "expected": "h av en halv"
     },
     "Function007": {
       "expected": "h av, venstre parentes, 1 delt på 2, høyre parentes"
@@ -131,7 +131,7 @@
       "expected": "g invers av, venstre parentes, x kvadrat, høyre parentes"
     },
     "Function018": {
-      "expected": "h invers av en andre"
+      "expected": "h invers av en halv"
     },
     "Function019": {
       "expected": "h invers av, venstre parentes, 1 delt på 2, høyre parentes"
@@ -152,7 +152,7 @@
       "expected": "g invers av, g av minus 2 x"
     },
     "Function025": {
-      "expected": "h invers av, h av en andre"
+      "expected": "h invers av, h av en halv"
     },
     "Function026": {
       "expected": "h invers av, venstre parentes, h av, venstre parentes, 1 delt på 2, høyre parentes, høyre parentes"
@@ -188,7 +188,7 @@
       "expected": "g av, g invers av, venstre parentes, x kvadrat, høyre parentes"
     },
     "Function037": {
-      "expected": "h av, h invers av en andre"
+      "expected": "h av, h invers av en halv"
     },
     "Function038": {
       "expected": "h av, h invers av, venstre parentes, brøk 1 delt på 2, høyre parentes"
@@ -344,7 +344,7 @@
       "expected": "g ganger minus 2 x"
     },
     "Function089": {
-      "expected": "h ganger en andre"
+      "expected": "h ganger en halv"
     },
     "Function091": {
       "expected": "f ganger, venstre parentes, x pluss 1, høyre parentes, er lik, f ganger x, pluss 1"
@@ -377,7 +377,7 @@
       "expected": "g med eksponent minus 1, ganger, venstre parentes, x kvadrat, høyre parentes"
     },
     "Function101": {
-      "expected": "h med eksponent minus 1, ganger en andre"
+      "expected": "h med eksponent minus 1, ganger en halv"
     },
     "Function103": {
       "expected": "f med eksponent minus 1, ganger, f ganger x"
@@ -395,7 +395,7 @@
       "expected": "g med eksponent minus 1, ganger, g ganger minus 2 x"
     },
     "Function108": {
-      "expected": "h med eksponent minus 1, ganger, h ganger en andre"
+      "expected": "h med eksponent minus 1, ganger, h ganger en halv"
     },
     "Function110": {
       "expected": "f med eksponent minus 1, ganger, venstre parentes, f ganger, venstre parentes, x pluss 1, høyre parentes, høyre parentes, er lik x pluss 1"
@@ -428,7 +428,7 @@
       "expected": "g ganger, venstre parentes, g med eksponent minus 1, ganger, venstre parentes, x kvadrat, høyre parentes, høyre parentes"
     },
     "Function120": {
-      "expected": "h ganger, venstre parentes, h med eksponent minus 1, ganger en andre, høyre parentes"
+      "expected": "h ganger, venstre parentes, h med eksponent minus 1, ganger en halv, høyre parentes"
     },
     "Function122": {
       "expected": "f ganger, g ganger x"
