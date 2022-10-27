@@ -73,10 +73,10 @@
       "expected": "2 ganger 2 matrisen. rad 1: 2 x, 1 rad 2: 7, 5"
     },
     "Matrix019b": {
-      "expected": "2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredje"
+      "expected": "2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredjedeler"
     },
     "Matrix020": {
-      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte"
+      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel"
     },
     "Matrix021": {
       "expected": "2 ganger 2 matrisen. rad 1: b indeks 1 1, b indeks 1 2 rad 2: b indeks 2 1, b indeks 2 2"
@@ -85,7 +85,7 @@
       "expected": "3 ganger 2 ganger 2 matrisen. rad 1: 2, 1 rad 2: 7, 5. ganger 2 ganger 3 matrisen. rad 1: 3, 1, 4 rad 2: 0, 2, 6"
     },
     "Matrix023": {
-      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte. ganger 2 ganger 3 matrisen. rad 1: kolonne 1, 3; kolonne 2, 1 minus x; kolonne 3, 4. rad 2: kolonne 1, 0; kolonne 2, 2; kolonne 3, 6"
+      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel. ganger 2 ganger 3 matrisen. rad 1: kolonne 1, 3; kolonne 2, 1 minus x; kolonne 3, 4. rad 2: kolonne 1, 0; kolonne 2, 2; kolonne 3, 6"
     },
     "Matrix024": {
       "expected": "4 ganger 4 matrisen. rad 1: kolonne 1, 0; kolonne 2, 3; kolonne 3, 4; kolonne 4, 3. rad 2: kolonne 1, 2; kolonne 2, 1; kolonne 3, 0; kolonne 4, 9. rad 3: kolonne 1, 3; kolonne 2, 0; kolonne 3, 2; kolonne 4, 1. rad 4: kolonne 1, 6; kolonne 2, 2; kolonne 3, 9; kolonne 4, 0. ganger 4 ganger 2 matrisen. rad 1: kolonne 1, 1; kolonne 2, 3. rad 2: kolonne 1, 4; kolonne 2, 2. rad 3: kolonne 1, 2; kolonne 2, 1. rad 4: kolonne 1, 0; kolonne 2, 5"
@@ -121,16 +121,16 @@
       "expected": "det av 2 ganger 2 matrisen. rad 1: 2 x, 1 rad 2: 7, 5"
     },
     "Matrix035": {
-      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredje"
+      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredjedeler"
     },
     "Matrix036": {
-      "expected": "det av 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredje"
+      "expected": "det av 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredjedeler"
     },
     "Matrix037": {
-      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte"
+      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel"
     },
     "Matrix038": {
-      "expected": "det av 2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte"
+      "expected": "det av 2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel"
     },
     "Matrix039": {
       "expected": "2 ganger 2 matrisen. rad 1: kolonne 1, 2; kolonne 2, 1. rad 2: kolonne 1, 7; kolonne 2, 5"
@@ -202,10 +202,10 @@
       "expected": "2 ganger 2 matrisen. rad 1: kolonne 1, 2 x; kolonne 2, 1. rad 2: kolonne 1, 7; kolonne 2, 5"
     },
     "Matrix061": {
-      "expected": "2 ganger 2 matrisen. rad 1: kolonne 1, 2 x; kolonne 2, y. rad 2: kolonne 1, en andre; kolonne 2, to tredje"
+      "expected": "2 ganger 2 matrisen. rad 1: kolonne 1, 2 x; kolonne 2, y. rad 2: kolonne 1, en andre; kolonne 2, to tredjedeler"
     },
     "Matrix062": {
-      "expected": "2 ganger 2 matrisen. rad 1: kolonne 1, en andre; kolonne 2, to tredje. rad 2: kolonne 1, tre fjerde; kolonne 2, en femte"
+      "expected": "2 ganger 2 matrisen. rad 1: kolonne 1, en andre; kolonne 2, to tredjedeler. rad 2: kolonne 1, tre fjerdedeler; kolonne 2, en femtedel"
     },
     "Matrix063": {
       "expected": "2 ganger 2 matrisen. rad 1: kolonne 1, b indeks 1 1; kolonne 2, b indeks 1 2. rad 2: kolonne 1, b indeks 2 1; kolonne 2, b indeks 2 2"
@@ -250,16 +250,16 @@
       "expected": "det av 2 ganger 2 matrisen. rad 1: kolonne 1, 2 x; kolonne 2, 1. rad 2: kolonne 1, 7; kolonne 2, 5"
     },
     "Matrix077": {
-      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: kolonne 1, 2 x; kolonne 2, y. rad 2: kolonne 1, en andre; kolonne 2, to tredje"
+      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: kolonne 1, 2 x; kolonne 2, y. rad 2: kolonne 1, en andre; kolonne 2, to tredjedeler"
     },
     "Matrix078": {
-      "expected": "det av 2 ganger 2 matrisen. rad 1: kolonne 1, 2 x; kolonne 2, y. rad 2: kolonne 1, en andre; kolonne 2, to tredje"
+      "expected": "det av 2 ganger 2 matrisen. rad 1: kolonne 1, 2 x; kolonne 2, y. rad 2: kolonne 1, en andre; kolonne 2, to tredjedeler"
     },
     "Matrix079": {
-      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: kolonne 1, en andre; kolonne 2, to tredje. rad 2: kolonne 1, tre fjerde; kolonne 2, en femte"
+      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: kolonne 1, en andre; kolonne 2, to tredjedeler. rad 2: kolonne 1, tre fjerdedeler; kolonne 2, en femtedel"
     },
     "Matrix080": {
-      "expected": "det av 2 ganger 2 matrisen. rad 1: kolonne 1, en andre; kolonne 2, to tredje. rad 2: kolonne 1, tre fjerde; kolonne 2, en femte"
+      "expected": "det av 2 ganger 2 matrisen. rad 1: kolonne 1, en andre; kolonne 2, to tredjedeler. rad 2: kolonne 1, tre fjerdedeler; kolonne 2, en femtedel"
     },
     "Matrix081": {
       "expected": "2 ganger 2 matrisen. rad 1: 2, 1 rad 2: 7, 5"
@@ -319,10 +319,10 @@
       "expected": "2 ganger 2 matrisen. rad 1: 2 x, 1 rad 2: 7, 5"
     },
     "Matrix099": {
-      "expected": "2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredje"
+      "expected": "2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredjedeler"
     },
     "Matrix100": {
-      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte"
+      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel"
     },
     "Matrix101": {
       "expected": "2 ganger 2 matrisen. rad 1: b indeks 1 1, b indeks 1 2 rad 2: b indeks 2 1, b indeks 2 2"
@@ -331,7 +331,7 @@
       "expected": "3 ganger 2 ganger 2 matrisen. rad 1: 2, 1 rad 2: 7, 5. ganger 2 ganger 3 matrisen. rad 1: 3, 1, 4 rad 2: 0, 2, 6"
     },
     "Matrix103": {
-      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte. ganger 2 ganger 3 matrisen. rad 1: 3, 1 minus x, 4 rad 2: 0, 2, 6"
+      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel. ganger 2 ganger 3 matrisen. rad 1: 3, 1 minus x, 4 rad 2: 0, 2, 6"
     },
     "Matrix104": {
       "expected": "4 ganger 4 matrisen. rad 1: 0, 3, 4, 3 rad 2: 2, 1, 0, 9 rad 3: 3, 0, 2, 1 rad 4: 6, 2, 9, 0. ganger 4 ganger 2 matrisen. rad 1: 1, 3 rad 2: 4, 2 rad 3: 2, 1 rad 4: 0, 5"
@@ -367,16 +367,16 @@
       "expected": "det av 2 ganger 2 matrisen. rad 1: 2 x, 1 rad 2: 7, 5"
     },
     "Matrix115": {
-      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredje"
+      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredjedeler"
     },
     "Matrix116": {
-      "expected": "det av 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredje"
+      "expected": "det av 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredjedeler"
     },
     "Matrix117": {
-      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte"
+      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel"
     },
     "Matrix118": {
-      "expected": "det av 2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte"
+      "expected": "det av 2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel"
     },
     "Matrix119": {
       "expected": "2 ganger 2 matrisen. rad 1: 2, 1 rad 2: 7, 5. slutt matrise"
@@ -436,10 +436,10 @@
       "expected": "2 ganger 2 matrisen. rad 1: 2 x, 1 rad 2: 7, 5. slutt matrise"
     },
     "Matrix138": {
-      "expected": "2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredje. slutt matrise"
+      "expected": "2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredjedeler. slutt matrise"
     },
     "Matrix139": {
-      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte. slutt matrise"
+      "expected": "2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel. slutt matrise"
     },
     "Matrix140": {
       "expected": "2 ganger 2 matrisen. rad 1: b indeks 1 1, b indeks 1 2 rad 2: b indeks 2 1, b indeks 2 2. slutt matrise"
@@ -484,16 +484,16 @@
       "expected": "det av 2 ganger 2 matrisen. rad 1: 2 x, 1 rad 2: 7, 5. slutt matrise"
     },
     "Matrix154": {
-      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredje. slutt determinant"
+      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredjedeler. slutt determinant"
     },
     "Matrix155": {
-      "expected": "det av 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredje. slutt matrise"
+      "expected": "det av 2 ganger 2 matrisen. rad 1: 2 x, y rad 2: en andre, to tredjedeler. slutt matrise"
     },
     "Matrix156": {
-      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte. slutt determinant"
+      "expected": "determinanten til 2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel. slutt determinant"
     },
     "Matrix157": {
-      "expected": "det av 2 ganger 2 matrisen. rad 1: en andre, to tredje rad 2: tre fjerde, en femte. slutt matrise"
+      "expected": "det av 2 ganger 2 matrisen. rad 1: en andre, to tredjedeler rad 2: tre fjerdedeler, en femtedel. slutt matrise"
     },
     "Matrix158": {
       "expected": "3 ganger 1 kolonnevektor. 1, 2, 3"

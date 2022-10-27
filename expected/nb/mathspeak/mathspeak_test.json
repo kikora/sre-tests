@@ -820,22 +820,22 @@
       "expected": "Brøk 5 x Utkryssing y StoppUtkryssing Over 2 Utkryssing y StoppUtkryssing SluttBrøk er lik fem andre x"
     },
     "Sample_10_2_1_default": {
-      "expected": "Start Brøk 12 Over 18 Slutt Brøk er lik Start Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing Slutt Brøk er lik to tredje"
+      "expected": "Start Brøk 12 Over 18 Slutt Brøk er lik Start Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing Slutt Brøk er lik to tredjedeler"
     },
     "Sample_10_2_1_brief": {
-      "expected": "Start Brøk 12 Over 18 Slutt Brøk er lik Start Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing Slutt Brøk er lik to tredje"
+      "expected": "Start Brøk 12 Over 18 Slutt Brøk er lik Start Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing Slutt Brøk er lik to tredjedeler"
     },
     "Sample_10_2_1_sbrief": {
-      "expected": "Brøk 12 Over 18 SluttBrøk er lik Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing SluttBrøk er lik to tredje"
+      "expected": "Brøk 12 Over 18 SluttBrøk er lik Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing SluttBrøk er lik to tredjedeler"
     },
     "Sample_10_2_2_default": {
-      "expected": "Start Brøk 12 Over 18 Slutt Brøk er lik Start Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing Slutt Brøk er lik to tredje"
+      "expected": "Start Brøk 12 Over 18 Slutt Brøk er lik Start Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing Slutt Brøk er lik to tredjedeler"
     },
     "Sample_10_2_2_brief": {
-      "expected": "Start Brøk 12 Over 18 Slutt Brøk er lik Start Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing Slutt Brøk er lik to tredje"
+      "expected": "Start Brøk 12 Over 18 Slutt Brøk er lik Start Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing Slutt Brøk er lik to tredjedeler"
     },
     "Sample_10_2_2_sbrief": {
-      "expected": "Brøk 12 Over 18 SluttBrøk er lik Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing SluttBrøk er lik to tredje"
+      "expected": "Brøk 12 Over 18 SluttBrøk er lik Brøk Utkryssing 12 Med 2 StoppUtkryssing Over Utkryssing 18 Med 3 StoppUtkryssing SluttBrøk er lik to tredjedeler"
     },
     "Sample_11_1_1_default": {
       "expected": "ModifiserOver x Med tøddel"

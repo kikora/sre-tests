@@ -10,22 +10,22 @@
   "compare": true,
   "tests": {
     "Sample_1_default": {
-      "expected": "negativ 5 og ein femte minus 6 og to tredje er lik"
+      "expected": "negativ 5 og ein femte minus 6 og to tredjedelar er lik"
     },
     "Sample_1_brief": {
-      "expected": "negativ 5 og ein femte minus 6 og to tredje er lik"
+      "expected": "negativ 5 og ein femte minus 6 og to tredjedelar er lik"
     },
     "Sample_1_sbrief": {
-      "expected": "negativ 5 og ein femte minus 6 og to tredje er lik"
+      "expected": "negativ 5 og ein femte minus 6 og to tredjedelar er lik"
     },
     "Sample_2_default": {
-      "expected": "negativ 7 og tre fjerde minus venstreparentes negativ 4 og sju åttande høgreparentes er lik"
+      "expected": "negativ 7 og tre fjerdedelar minus venstreparentes negativ 4 og sju åttande høgreparentes er lik"
     },
     "Sample_2_brief": {
-      "expected": "negativ 7 og tre fjerde minus venstreparentes negativ 4 og sju åttande høgreparentes er lik"
+      "expected": "negativ 7 og tre fjerdedelar minus venstreparentes negativ 4 og sju åttande høgreparentes er lik"
     },
     "Sample_2_sbrief": {
-      "expected": "negativ 7 og tre fjerde minus venstreparentes negativ 4 og sju åttande høgreparentes er lik"
+      "expected": "negativ 7 og tre fjerdedelar minus venstreparentes negativ 4 og sju åttande høgreparentes er lik"
     },
     "Sample_3_default": {
       "expected": "negativ 24,15 minus venstreparentes 13,7 høgreparentes er lik"
@@ -784,13 +784,13 @@
       "expected": "x er lik a pluss b i andre potens"
     },
     "Sample_87_default": {
-      "expected": "Start Brøk ein andre Over tre fjerde Slutt Brøk er lik to tredje"
+      "expected": "Start Brøk ein andre Over tre fjerdedelar Slutt Brøk er lik to tredjedelar"
     },
     "Sample_87_brief": {
-      "expected": "Start Brøk ein andre Over tre fjerde Slutt Brøk er lik to tredje"
+      "expected": "Start Brøk ein andre Over tre fjerdedelar Slutt Brøk er lik to tredjedelar"
     },
     "Sample_87_sbrief": {
-      "expected": "Brøk ein andre Over tre fjerde SluttBrøk er lik to tredje"
+      "expected": "Brøk ein andre Over tre fjerdedelar SluttBrøk er lik to tredjedelar"
     },
     "Sample_88_default": {
       "expected": "2 venstreparentes venstreparentes x pluss 1 høgreparentes venstreparentes x pluss 3 høgreparentes minus 4 venstreparentes venstreparentes x minus 1 høgreparentes venstreparentes x pluss 2 høgreparentes minus 3 høgreparentes høgreparentes er lik y"

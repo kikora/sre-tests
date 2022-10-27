@@ -279,10 +279,10 @@
       "expected": "1 kilometer pluss 2 kilometer pluss 0 kilometer pluss a kilometer"
     },
     "UnitNumb_0": {
-      "expected": "1 og to tredje kilogram"
+      "expected": "1 og to tredjedelar kilogram"
     },
     "UnitNumb_1": {
-      "expected": "1 og to tredje kilogram kilometer"
+      "expected": "1 og to tredjedelar kilogram kilometer"
     },
     "UnitNumb_2": {
       "expected": "1 kilometer 2 kilogram kilometer"

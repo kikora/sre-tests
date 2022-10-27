@@ -49,7 +49,7 @@
       "expected": "brøk med tellar x pluss y, og nemnar x minus y"
     },
     "Frac006": {
-      "expected": "brøk med tellar x pluss y, og nemnar x minus y, pluss to tredje"
+      "expected": "brøk med tellar x pluss y, og nemnar x minus y, pluss to tredjedelar"
     },
     "Frac007": {
       "expected": "miles delt på gallon"
@@ -214,7 +214,7 @@
       "expected": "brøk med tellar x pluss y, og nemnar x minus y"
     },
     "Frac061": {
-      "expected": "brøk med tellar x pluss y, og nemnar x minus y, pluss to tredje"
+      "expected": "brøk med tellar x pluss y, og nemnar x minus y, pluss to tredjedelar"
     },
     "Frac062": {
       "expected": "miles delt på gallon"
@@ -238,7 +238,7 @@
       "expected": "brøk med tellar x pluss y, og nemnar x minus y, slutt brøk"
     },
     "Frac069": {
-      "expected": "brøk med tellar x pluss y, og nemnar x minus y, slutt brøk, pluss to tredje"
+      "expected": "brøk med tellar x pluss y, og nemnar x minus y, slutt brøk, pluss to tredjedelar"
     },
     "Frac070": {
       "expected": "miles delt på gallons"
@@ -268,7 +268,7 @@
       "expected": "ein andre delt på 3"
     },
     "NestFrac004": {
-      "expected": "1 delt på to tredje"
+      "expected": "1 delt på to tredjedelar"
     },
     "NestFrac005": {
       "expected": "brøk med tellar, 11 delt på 32, og nemnar, 16 delt på 51"
@@ -286,7 +286,7 @@
       "expected": "brøk med tellar, 10 delt på 22, og nemnar ein andre"
     },
     "NestFrac010": {
-      "expected": "brøk med tellar 1 pluss to tredje, og nemnar 1 minus to tredje"
+      "expected": "brøk med tellar 1 pluss to tredjedelar, og nemnar 1 minus to tredjedelar"
     },
     "NestFrac011": {
       "expected": "brøk med tellar 1 pluss, x delt på 2, og nemnar 1 minus, x delt på 2"
@@ -322,7 +322,7 @@
       "expected": "ein andre delt på 3, slutt brøk"
     },
     "NestFrac022": {
-      "expected": "1 delt på to tredje, slutt brøk"
+      "expected": "1 delt på to tredjedelar, slutt brøk"
     },
     "NestFrac023": {
       "expected": "brøk med tellar, 11 delt på 32, og nemnar, 16 delt på 51, slutt brøk"
@@ -340,7 +340,7 @@
       "expected": "brøk med tellar, 10 delt på 22, og nemnar ein andre, slutt brøk"
     },
     "NestFrac028": {
-      "expected": "brøk med tellar 1 pluss to tredje, og nemnar 1 minus to tredje, slutt brøk"
+      "expected": "brøk med tellar 1 pluss to tredjedelar, og nemnar 1 minus to tredjedelar, slutt brøk"
     },
     "NestFrac029": {
       "expected": "brøk med tellar 1 pluss, x delt på 2, og nemnar 1 minus, x delt på 2, slutt brøk"

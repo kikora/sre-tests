@@ -46,7 +46,7 @@
       "expected": "ein andre"
     },
     "Paren012": {
-      "expected": "tre fjerde x"
+      "expected": "tre fjerdedelar x"
     },
     "Paren013": {
       "expected": "venstreparentes, 11 delt på 22, høgreparentes"
@@ -91,7 +91,7 @@
       "expected": "venstreparentes, ein andre, høgreparentes"
     },
     "Paren027": {
-      "expected": "venstreparentes, tre fjerde x, høgreparentes"
+      "expected": "venstreparentes, tre fjerdedelar x, høgreparentes"
     },
     "Paren028": {
       "expected": "venstreparentes, 11 delt på 22, høgreparentes"
@@ -232,7 +232,7 @@
       "expected": "ein andre"
     },
     "SilParen012": {
-      "expected": "tre fjerde x"
+      "expected": "tre fjerdedelar x"
     },
     "SilParen013": {
       "expected": "11 delt på 22"

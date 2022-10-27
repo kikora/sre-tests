@@ -249,7 +249,7 @@
       "expected": "3 hevet til i kvadrat"
     },
     "SimpleExponentSquared_2": {
-      "expected": "3 hevet til to tredje kvadrat"
+      "expected": "3 hevet til to tredjedeler kvadrat"
     },
     "SimpleExponentCubed_0": {
       "expected": "3 hevet til 2 kubikk"
@@ -258,7 +258,7 @@
       "expected": "3 hevet til i kubikk"
     },
     "SimpleExponentCubed_2": {
-      "expected": "3 hevet til to tredje kubikk"
+      "expected": "3 hevet til to tredjedelar kubikk"
     },
     "MultiRel": {
       "expected": "a er mindre enn eller er lik b er lik c"
