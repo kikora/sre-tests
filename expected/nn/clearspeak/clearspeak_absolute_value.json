@@ -55,7 +55,7 @@
       "expected": "determinanten til 2 ganger 2 matrisa. rad 1: 2 x, 1 rad 2: 7, 5"
     },
     "AbsDet06": {
-      "expected": "determinanten til 2 ganger 2 matrisa. rad 1: 2 x, y rad 2: ein andre, to tredjedelar"
+      "expected": "determinanten til 2 ganger 2 matrisa. rad 1: 2 x, y rad 2: ein halv, to tredjedelar"
     },
     "AbsDet07": {
       "expected": "determinanten til 2 ganger 2 matrisa. rad 1: ein halv, to tredjedelar rad 2: tre fjerdedelar, ein femtedel"
@@ -76,10 +76,10 @@
       "expected": "determinanten til 2 ganger 2 matrisa. rad 1: 2 x, 1 rad 2: 7, 5"
     },
     "AbsDet13": {
-      "expected": "determinanten til 2 ganger 2 matrisa. rad 1: 2 x, y rad 2: ein andre, to tredjedelar"
+      "expected": "determinanten til 2 ganger 2 matrisa. rad 1: 2 x, y rad 2: ein halv, to tredjedelar"
     },
     "AbsDet14": {
-      "expected": "determinanten til 2 ganger 2 matrisa. rad 1: ein andre, to tredjedelar rad 2: tre fjerdedelar, ein femtedel"
+      "expected": "determinanten til 2 ganger 2 matrisa. rad 1: ein halv, to tredjedelar rad 2: tre fjerdedelar, ein femtedel"
     }
   }
 }

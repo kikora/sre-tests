@@ -142,7 +142,7 @@
       "expected": "minus Start Brøk a Over b Slutt Brøk"
     },
     "NegativeVsMinus_2": {
-      "expected": "negativ 3 og ein andre"
+      "expected": "negativ 3 og ein halv"
     },
     "Sample_4_2_1_default": {
       "expected": "Uppercase venstreparentes StartSett alfa komma beta komma gamma komma delta komma epsilon komma pi StoppSett høgreparentes er lik StartSett stor bokstav Alfa komma stor bokstav Beta komma stor bokstav Gamma komma triangel komma stor bokstav Epsilon komma stor bokstav Pi StoppSett"
@@ -253,13 +253,13 @@
       "expected": "a 0 pluss Nøst3Brøk 1 Nøst3Over a 1 pluss NøstTo gangerBrøk 1 NøstTo gangerOver a 2 pluss NøstBrøk 1 NøstOver prikk prikk prikk pluss Brøk 1 Over a Sub n Basis SluttBrøk NøstSluttBrøk NøstTo gangerSluttBrøk Nøst3SluttBrøk"
     },
     "Sample_7_4_1_default": {
-      "expected": "ein andre pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendeleg Sluttskript Start Brøk n Over 2 Slutt Brøk"
+      "expected": "ein halv pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendeleg Sluttskript Start Brøk n Over 2 Slutt Brøk"
     },
     "Sample_7_4_1_brief": {
-      "expected": "ein andre pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendeleg Sluttskript Start Brøk n Over 2 Slutt Brøk"
+      "expected": "ein halv pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendeleg Sluttskript Start Brøk n Over 2 Slutt Brøk"
     },
     "Sample_7_4_1_sbrief": {
-      "expected": "ein andre pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendeleg Sluttskript Brøk n Over 2 SluttBrøk"
+      "expected": "ein halv pluss to andre pluss tre andre pluss fire andre pluss prikk prikk prikk er lik sum Underskript n er lik 1 Overskript uendeleg Sluttskript Brøk n Over 2 SluttBrøk"
     },
     "Sample_7_4_2_default": {
       "expected": "Start Brøk 20 Over 5 Slutt Brøk gangeteikn Start Brøk 1 Over 100 Slutt Brøk er lik ein tjuefemte"
@@ -271,13 +271,13 @@
       "expected": "Brøk 20 Over 5 SluttBrøk gangeteikn Brøk 1 Over 100 SluttBrøk er lik ein tjuefemte"
     },
     "Sample_7_4_3_default": {
-      "expected": "Start Brøk tre femte Over 8 Slutt Brøk er lik tre femte gangeteikn ein åttande"
+      "expected": "Start Brøk tre femte Over 8 Slutt Brøk er lik tre femte gangeteikn ein åttandedel"
     },
     "Sample_7_4_3_brief": {
-      "expected": "Start Brøk tre femte Over 8 Slutt Brøk er lik tre femte gangeteikn ein åttande"
+      "expected": "Start Brøk tre femte Over 8 Slutt Brøk er lik tre femte gangeteikn ein åttandedel"
     },
     "Sample_7_4_3_sbrief": {
-      "expected": "Brøk tre femte Over 8 SluttBrøk er lik tre femte gangeteikn ein åttande"
+      "expected": "Brøk tre femte Over 8 SluttBrøk er lik tre femte gangeteikn ein åttandedel"
     },
     "Sample_7_5_1_default": {
       "expected": "3 og fem åttande er lik Start Brøk 29 Over 8 Slutt Brøk"
@@ -316,13 +316,13 @@
       "expected": "Brøk d i andre potens y Over d x i andre potens SluttBrøk pluss venstreparentes a x i andre potens pluss b x pluss c høgreparentes y er lik 0"
     },
     "Sample_8_2_1_default": {
-      "expected": "x Superskript ein andre"
+      "expected": "x Superskript ein halv"
     },
     "Sample_8_2_1_brief": {
-      "expected": "x Sub ein andre"
+      "expected": "x Sub ein halv"
     },
     "Sample_8_2_1_sbrief": {
-      "expected": "x Sub ein andre"
+      "expected": "x Sub ein halv"
     },
     "Sample_8_2_2_default": {
       "expected": "x Subskript n"
@@ -766,13 +766,13 @@
       "expected": "Indeks n Rot x Sub m Basis SluttRot er lik venstreparentes Indeks n Rot x SluttRot høgreparentes Sub m Basis er lik x Sub Brøk m Over n SluttBrøk Basis komma x er større enn 0"
     },
     "Sample_9_2_3_default": {
-      "expected": "RotIndeks 3 StartRot x SluttRot er lik x Superskript ein tredje"
+      "expected": "RotIndeks 3 StartRot x SluttRot er lik x Superskript ein tredjedel"
     },
     "Sample_9_2_3_brief": {
-      "expected": "RotIndeks 3 StartRot x SluttRot er lik x Sub ein tredje"
+      "expected": "RotIndeks 3 StartRot x SluttRot er lik x Sub ein tredjedel"
     },
     "Sample_9_2_3_sbrief": {
-      "expected": "Indeks 3 Rot x SluttRot er lik x Sub ein tredje"
+      "expected": "Indeks 3 Rot x SluttRot er lik x Sub ein tredjedel"
     },
     "Sample_9_3_1_default": {
       "expected": "NøstaStartRot StartRot x pluss 1 SluttRot pluss StartRot y pluss 1 SluttRot NøstaSluttRot"

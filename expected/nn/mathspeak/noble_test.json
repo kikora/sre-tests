@@ -172,13 +172,13 @@
       "expected": "m vinkel stor bokstav M pluss m vinkel stor bokstav N er lik 180 grader"
     },
     "Sample_19_default": {
-      "expected": "stor bokstav A er lik ein andre b h"
+      "expected": "stor bokstav A er lik ein halv b h"
     },
     "Sample_19_brief": {
-      "expected": "stor bokstav A er lik ein andre b h"
+      "expected": "stor bokstav A er lik ein halv b h"
     },
     "Sample_19_sbrief": {
-      "expected": "stor bokstav A er lik ein andre b h"
+      "expected": "stor bokstav A er lik ein halv b h"
     },
     "Sample_20_default": {
       "expected": "Start Brøk area of triangle Over area of square Slutt Brøk er lik Start Brøk 1 unit i andre potens Over 16 units i andre potens Slutt Brøk"
@@ -316,13 +316,13 @@
       "expected": "y er lik x i andre potens pluss 8 x pluss 16"
     },
     "Sample_35_default": {
-      "expected": "y er lik ein tredje venstreparentes 3 Superskript x Grunnlinje høgreparentes"
+      "expected": "y er lik ein tredjedel venstreparentes 3 Superskript x Grunnlinje høgreparentes"
     },
     "Sample_35_brief": {
-      "expected": "y er lik ein tredje venstreparentes 3 Sub x Basis høgreparentes"
+      "expected": "y er lik ein tredjedel venstreparentes 3 Sub x Basis høgreparentes"
     },
     "Sample_35_sbrief": {
-      "expected": "y er lik ein tredje venstreparentes 3 Sub x Basis høgreparentes"
+      "expected": "y er lik ein tredjedel venstreparentes 3 Sub x Basis høgreparentes"
     },
     "Sample_36_default": {
       "expected": "y er lik 10 minus 2 x"
@@ -487,13 +487,13 @@
       "expected": "32 ganger venstreparentes 5 ganger 7 høgreparentes"
     },
     "Sample_54_default": {
-      "expected": "venstreparentes ein andre gangeteikn ein andre gangeteikn pi gangeteikn 2 høgreparentes pluss venstreparentes 2 gangeteikn ein andre gangeteikn pi gangeteikn 5 høgreparentes"
+      "expected": "venstreparentes ein halv gangeteikn ein halv gangeteikn pi gangeteikn 2 høgreparentes pluss venstreparentes 2 gangeteikn ein halv gangeteikn pi gangeteikn 5 høgreparentes"
     },
     "Sample_54_brief": {
-      "expected": "venstreparentes ein andre gangeteikn ein andre gangeteikn pi gangeteikn 2 høgreparentes pluss venstreparentes 2 gangeteikn ein andre gangeteikn pi gangeteikn 5 høgreparentes"
+      "expected": "venstreparentes ein halv gangeteikn ein halv gangeteikn pi gangeteikn 2 høgreparentes pluss venstreparentes 2 gangeteikn ein halv gangeteikn pi gangeteikn 5 høgreparentes"
     },
     "Sample_54_sbrief": {
-      "expected": "venstreparentes ein andre gangeteikn ein andre gangeteikn pi gangeteikn 2 høgreparentes pluss venstreparentes 2 gangeteikn ein andre gangeteikn pi gangeteikn 5 høgreparentes"
+      "expected": "venstreparentes ein halv gangeteikn ein halv gangeteikn pi gangeteikn 2 høgreparentes pluss venstreparentes 2 gangeteikn ein halv gangeteikn pi gangeteikn 5 høgreparentes"
     },
     "Sample_55_default": {
       "expected": "nedre grense Underskript n høgrepil uendeleg Sluttskript stor bokstav E Subskript n Grunnlinje er lik union Underskript n er større enn eller er lik 1 Sluttskript interseksjon Underskript k er større enn eller er lik n Sluttskript stor bokstav E Subskript k Grunnlinje komma øvre grense Underskript n høgrepil uendeleg Sluttskript stor bokstav E Subskript n Grunnlinje er lik interseksjon Underskript n er større enn eller er lik 1 Sluttskript union Underskript k er større enn eller er lik n Sluttskript stor bokstav E Subskript k Grunnlinje punktum"
@@ -784,13 +784,13 @@
       "expected": "x er lik a pluss b i andre potens"
     },
     "Sample_87_default": {
-      "expected": "Start Brøk ein andre Over tre fjerdedelar Slutt Brøk er lik to tredjedelar"
+      "expected": "Start Brøk ein halv Over tre fjerdedelar Slutt Brøk er lik to tredjedelar"
     },
     "Sample_87_brief": {
-      "expected": "Start Brøk ein andre Over tre fjerdedelar Slutt Brøk er lik to tredjedelar"
+      "expected": "Start Brøk ein halv Over tre fjerdedelar Slutt Brøk er lik to tredjedelar"
     },
     "Sample_87_sbrief": {
-      "expected": "Brøk ein andre Over tre fjerdedelar SluttBrøk er lik to tredjedelar"
+      "expected": "Brøk ein halv Over tre fjerdedelar SluttBrøk er lik to tredjedelar"
     },
     "Sample_88_default": {
       "expected": "2 venstreparentes venstreparentes x pluss 1 høgreparentes venstreparentes x pluss 3 høgreparentes minus 4 venstreparentes venstreparentes x minus 1 høgreparentes venstreparentes x pluss 2 høgreparentes minus 3 høgreparentes høgreparentes er lik y"
@@ -892,13 +892,13 @@
       "expected": "Brøk d Over d x SluttBrøk venstreparentes stor bokstav E venstreparentes x høgreparentes stor bokstav A venstreparentes x høgreparentes Brøk d w venstreparentes x høgreparentes Over d x SluttBrøk høgreparentes pluss p venstreparentes x høgreparentes er lik 0"
     },
     "Sample_99_default": {
-      "expected": "TCS Subskript gas Grunnlinje er lik minus ein andre venstreparentes Start Brøk stor bokstav P Subskript seal Grunnlinje Over stor bokstav P Subskript maks Grunnlinje Slutt Brøk høgreparentes venstreparentes Start Brøk 1 Over stor bokstav T Subskript seal Grunnlinje Slutt Brøk høgreparentes"
+      "expected": "TCS Subskript gas Grunnlinje er lik minus ein halv venstreparentes Start Brøk stor bokstav P Subskript seal Grunnlinje Over stor bokstav P Subskript maks Grunnlinje Slutt Brøk høgreparentes venstreparentes Start Brøk 1 Over stor bokstav T Subskript seal Grunnlinje Slutt Brøk høgreparentes"
     },
     "Sample_99_brief": {
-      "expected": "TCS Sub gas Basis er lik minus ein andre venstreparentes Start Brøk stor bokstav P Sub seal Basis Over stor bokstav P Sub maks Basis Slutt Brøk høgreparentes venstreparentes Start Brøk 1 Over stor bokstav T Sub seal Basis Slutt Brøk høgreparentes"
+      "expected": "TCS Sub gas Basis er lik minus ein halv venstreparentes Start Brøk stor bokstav P Sub seal Basis Over stor bokstav P Sub maks Basis Slutt Brøk høgreparentes venstreparentes Start Brøk 1 Over stor bokstav T Sub seal Basis Slutt Brøk høgreparentes"
     },
     "Sample_99_sbrief": {
-      "expected": "TCS Sub gas Basis er lik minus ein andre venstreparentes Brøk stor bokstav P Sub seal Basis Over stor bokstav P Sub maks Basis SluttBrøk høgreparentes venstreparentes Brøk 1 Over stor bokstav T Sub seal Basis SluttBrøk høgreparentes"
+      "expected": "TCS Sub gas Basis er lik minus ein halv venstreparentes Brøk stor bokstav P Sub seal Basis Over stor bokstav P Sub maks Basis SluttBrøk høgreparentes venstreparentes Brøk 1 Over stor bokstav T Sub seal Basis SluttBrøk høgreparentes"
     },
     "Sample_100_default": {
       "expected": "stor bokstav B Subskript p Grunnlinje er lik Start Start Brøk Start Brøk 7 minus v i andre potens Over 3 Slutt Brøk venstreparentes 1 pluss Start Brøk c i andre potens Over a i andre potens Slutt Brøk pluss Start Brøk c Superskript 4 Grunnlinje Over a Superskript 4 Grunnlinje Slutt Brøk høgreparentes pluss Start Brøk venstreparentes 3 minus v høgreparentes i andre potens c i andre potens Over venstreparentes 1 pluss v høgreparentes a i andre potens Slutt Brøk Over Over venstreparentes 1 minus v høgreparentes venstreparentes 1 minus Start Brøk c Superskript 4 Grunnlinje Over a Superskript 4 Grunnlinje Slutt Brøk høgreparentes venstreparentes 1 minus Start Brøk c i andre potens Over a i andre potens Slutt Brøk høgreparentes Slutt Slutt Brøk"
